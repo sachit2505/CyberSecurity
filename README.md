@@ -59,5 +59,5 @@ This app uses the **Least Significant Bit (LSB)** technique to hide characters w
 
 ---
 
-## 📁 File Structure
+
 
