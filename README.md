@@ -8,12 +8,12 @@ A simple and powerful web-based tool to **hide secret messages inside images** u
 
 ## 📌 Features
 
-- 🖼️ **Hide messages in images** (LSB Steganography)
-- 🧠 **Fully client-side** (no server or internet required)
-- ⚡ **Instant Encoding and Decoding**
-- 💡 **Simple UI, Strong Security concept**
-- 💾 **Download encoded image**
-- 🕵️‍♀️ **Reveal hidden message anytime**
+- Hide messages in images (LSB Steganography)
+- Fully client-side (no server or internet required)
+- Instant Encoding and Decoding
+- Simple UI, Strong Security concept
+- Download encoded image
+- Reveal hidden message anytime
 
 ---
 
@@ -40,12 +40,6 @@ A simple and powerful web-based tool to **hide secret messages inside images** u
 ### 3. Decoding a Message
 - Upload the same encoded image.
 - Click **"Decode"** — hidden message is extracted and displayed.
-
----
-
-## 🖼️ Screenshots
-
-> 📌 Add screenshots of the web interface showing image upload, encode, and decode process.
 
 ---
 
