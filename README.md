@@ -2,7 +2,7 @@
 
 # 🔐 Image Steganography Web App
 
-A simple and powerful web-based tool to **hide secret messages inside images** using the **Least Significant Bit (LSB)** technique — developed by **Sachit Bramhadas Meshram** as a capstone cybersecurity project.
+A simple and powerful web-based tool to **hide secret messages inside images** using the **Least Significant Bit (LSB)** technique.
 
 ---
 
